@@ -3,21 +3,7 @@ Jupyter Notebook -- Python 3.7.6
 
 ## Module 4 Challenge Response
 
-### Question 1
-How is the district summary affected?
-
-### Question 2
-
-How is the school summary affected?
-
-### Question 3
-
-How does replacing the ninth graders' math and reading scores affect Thomas High School's performance, relative to other schools?
-
-### Question 4
-
-How does replacing the ninth-grade scores affect the Math and Reading scores by grade, scores by school spending, 
-scores by school size, and scores by school type?
+### Written Analysis
 
 After changing the 9th grade scores in Reading and Math for Thomas High School to NaN, there were a variety of changes to the
 summaries. The district summary had a slight change to it, where the overall passing percentage dropped 1% from 65%. Both the 
